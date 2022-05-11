@@ -36,7 +36,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utileStyles.headingMd}>
         <p>
-          駆け出しエンジニア。上手くいかなかった時こそチャンスだーーー
+          駆け出しエンジニア/Next.jsキャッチアップ中.../上手くいかなかった時こそチャンスだーーー
         </p>
       </section>
 
